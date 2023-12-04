@@ -111,11 +111,11 @@ button {
 }
 
 #img-counseling {
-  background-image: url(/images/college-purple.png);
+  background-image: url(/images/college-purple.jpg);
 }
 
 #img-advising {
-  background-image: url(/images/academic-purple.png);
+  background-image: url(/images/academic-purple.jpg);
 }
 
 #services .card {
@@ -259,7 +259,7 @@ footer {
   }
   to {
     transform: scale(1.2);
-    background-image: url(/images/academic-white.png);
+    background-image: url(/images/academic-white.jpg);
   }
 }
 
@@ -269,7 +269,7 @@ footer {
   }
   to {
     transform: scale(1.2);
-    background-image: url(/images/college-white.png);
+    background-image: url(/images/college-white.jpg);
   }
 }
 
